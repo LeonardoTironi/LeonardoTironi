@@ -2,7 +2,7 @@
 
 👨‍💻 Junior developer</br>
 👩🏻‍🎓 Currently studying at IFPR - Londrina</br>
-💻 Currently enrolled in the Harvard's [CS50x](https://cs50.harvard.edu/x/2024/)</br>
+💻 Currently enrolled in the Harvard's [CS50x](https://cs50.harvard.edu/x/2025/)</br>
 ✏️ Writing on [Medium](https://medium.com/@leotironineto)</br>
 📫 Contact: leotironineto@gmail.com</br>
 
