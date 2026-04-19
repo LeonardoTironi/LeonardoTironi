@@ -1,7 +1,7 @@
 ##  👋 Hello, I'm Leonardo!
 
 👨‍💻 FullStack developer</br>
-👩🏻‍🎓 Currently studying at IPB - Bragança, Portugal</br>
+👩🏻‍🎓 Currently studying at IFPR - Londrina, BR </br>
 📫 Contact: leotironineto@gmail.com</br>
 
 
